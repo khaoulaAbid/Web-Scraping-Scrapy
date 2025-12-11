@@ -1,7 +1,7 @@
 import scrapy
 from exercice_scrapy.items import ExerciceScrapyItem
 import re
-# items pour definir la structure que spider va le recracher
+
 # scrapy startproject exercice_scrapy                        : créer un projet
 # cd exercice_scrapy
 # scrapy genspider books http://books.toscrape.com  
