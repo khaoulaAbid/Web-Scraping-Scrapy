@@ -17,7 +17,7 @@ Extraire tous les livres avec leurs informations
 
 Exporter les données en JSON et CSV
 
-Bonus : ajouter la pagination (3 pages maximum)
+Pagination sur 3 pages 
 
 Commandes utilisées :
 
